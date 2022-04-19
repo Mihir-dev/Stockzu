@@ -65,13 +65,22 @@ def app():
         <hr style="padding:0;border-style: dotted none none;border-color: white;border-width: 5px;width: 10%;margin: 2rem auto;">    
     ''',True)
     
+    # st.markdown('''
+    #     <h3 style="font-family: 'Lato', sans-serif;text-align:center;margin-top:2rem;">Contact Us</h3>
+    #     <p style="font-family: 'Lato', sans-serif;text-align:center;font-size:1.125rem">Creator: Mihir Thotam</p>
+    #     <p style="font-family: 'Lato', sans-serif;text-align:center;font-size:1.125rem">Github: <a href="https://github.com/Mihir-dev">https://github.com/Mihir-dev</a></p>
+    #     <p style="font-family: 'Lato', sans-serif;text-align:center;font-size:1.125rem">LinkedIn: <a href="https://www.linkedin.com/in/mihir-thotam-5ba2111b9/">https://www.linkedin.com/in/mihir-thotam-5ba2111b9/</a></p>
+    #     <hr>
+    #  ''',True)
+
     st.markdown('''
-        <h3 style="font-family: 'Lato', sans-serif;text-align:center;margin-top:2rem;">Contact Us</h3>
-        <p style="font-family: 'Lato', sans-serif;text-align:center;font-size:1.125rem">Creator: Mihir Thotam</p>
-        <p style="font-family: 'Lato', sans-serif;text-align:center;font-size:1.125rem">Github: <a href="https://github.com/Mihir-dev">https://github.com/Mihir-dev</a></p>
-        <p style="font-family: 'Lato', sans-serif;text-align:center;font-size:1.125rem">LinkedIn: <a href="https://www.linkedin.com/in/mihir-thotam-5ba2111b9/">https://www.linkedin.com/in/mihir-thotam-5ba2111b9/</a></p>
+        <h3 style="font-family: 'Lato', sans-serif;text-align:center;margin-top:2rem;">Creators</h3>
+        <p style="font-family: 'Lato', sans-serif;text-align:center;font-size:1.125rem">Mihir Thotam -- 19101B0022</p>
+        <p style="font-family: 'Lato', sans-serif;text-align:center;font-size:1.125rem">Omkar Shinde -- 19101B0015</p>
+        <p style="font-family: 'Lato', sans-serif;text-align:center;font-size:1.125rem">Hritik Shelar -- 19101B0006</p>
+        <p style="font-family: 'Lato', sans-serif;text-align:center;font-size:1.125rem">Omkar Karle -- 19101B0005</p>
         <hr>
-     ''',True)
+    ''',True)
 
     
     
